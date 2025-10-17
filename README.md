@@ -1,3 +1,5 @@
+curl -o dsa-stats.svg https://dsastats.vercel.app/api/codolio/itsjaataman
+
 name: Update DSA Stats Card
 
 permissions:
